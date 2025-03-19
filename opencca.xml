@@ -7,7 +7,7 @@
 	<project name="opencca/opencca-build" path="opencca-build" remote="github" revision="opencca/main" />
 	<project name="opencca/opencca-flash" path="opencca-flash" remote="github" revision="opencca/main" />
 	<project name="opencca/opencca-manifest" path="opencca-manifest" remote="github" revision="opencca/main" />
-	<project name="opencca/debian-image-recpipes" path="debian-image-recpipes" remote="github" revision="opencca/main" />
+	<project name="opencca/debian-image-recipes" path="debian-image-recipes" remote="github" revision="opencca/main" />
 	
 	<!-- <project name="opencca/tf-rmm" path="tf-rmm" remote="github" revision="opencca/main" /> -->
 	<!-- <project name="opencca/trusted-firmware-a" path="trusted-firmware-a" remote="github" revision="opencca/main" /> -->
