@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="opencca" fetch="https://github.com/opencca"/>
+    
+    <project name="opencca-assets" path="opencca-assets" remote="opencca" revision="master" />
+    <project name="opencca-build" path="opencca-build" remote="opencca" revision="master" />
+    <project name="opencca-flash" path="opencca-flash" remote="opencca" revision="master" />
+
+    
+</manifest>
