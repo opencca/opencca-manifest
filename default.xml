@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <remote name="opencca" fetch="git://github.com/opencca"/>
+    <remote name="opencca" fetch="ssh://git@github.com/opencca"/>
     
     <project name="opencca-assets" path="opencca-assets" remote="opencca" revision="master" />
     <project name="opencca-build" path="opencca-build" remote="opencca" revision="master" />
