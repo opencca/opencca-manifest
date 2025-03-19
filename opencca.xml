@@ -14,7 +14,7 @@
 	<!-- <project name="opencca/linux" path="linux" remote="github" revision="opencca/guest" /> -->
 	<!-- <project name="opencca/linux-guest" path="trusted-firmware-a" remote="github" revision="opencca/main" /> -->
 
-	<project name="opencca/kvmtool" path="kvmktool" remote="github" revision="upstream/cca/v3" />
+	<project name="opencca/kvmtool" path="kvmtool" remote="github" revision="upstream/cca/v3" />
 	<project name="opencca/rkbin" path="rkbin" remote="github" revision="master" />
 
 	<project remote="github" name="buildroot/buildroot.git" path="buildroot" revision="refs/tags/2023.08"/>
