@@ -9,10 +9,10 @@
 	<project name="opencca/opencca-manifest" path="opencca-manifest" remote="github" revision="opencca/main" />
 	<project name="opencca/debian-image-recipes" path="debian-image-recipes" remote="github" revision="opencca/main" />
 	
-	<!-- <project name="opencca/tf-rmm" path="tf-rmm" remote="github" revision="opencca/main" /> -->
-	<!-- <project name="opencca/trusted-firmware-a" path="trusted-firmware-a" remote="github" revision="opencca/main" /> -->
-	<!-- <project name="opencca/linux" path="linux" remote="github" revision="opencca/guest" /> -->
-	<!-- <project name="opencca/linux-guest" path="trusted-firmware-a" remote="github" revision="opencca/main" /> -->
+	<project name="opencca/tf-rmm" path="tf-rmm" remote="github" revision="opencca/main" />
+	<project name="opencca/trusted-firmware-a" path="trusted-firmware-a" remote="github" revision="opencca/main" />
+	<project name="opencca/uboot" path="uboot" remote="github" revision="opencca/main" />
+	<project name="opencca/linux" path="linux" remote="github" revision="opencca/rk3588-v5+v7" />
 	
 	<project name="opencca/kvmtool" path="kvmtool" remote="github" revision="upstream/cca/v3" />
 	<project name="opencca/rkbin" path="rkbin" remote="github" revision="master" />
