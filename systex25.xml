@@ -4,9 +4,9 @@
 	<remote name="github" fetch="https://github.com/"/>
 
 	<project name="opencca/opencca-assets" path="opencca-assets" remote="github" revision="opencca/systex25" />
-	<project name="opencca/opencca-build" path="opencca-build" remote="github" revision="opencca/next" />
-	<project name="opencca/opencca-flash" path="opencca-flash" remote="github" revision="opencca/main" />
-	<project name="opencca/opencca-manifest" path="opencca-manifest" remote="github" revision="opencca/main" />
+	<project name="opencca/opencca-build" path="opencca-build" remote="github" revision="opencca/systex25" />
+	<project name="opencca/opencca-flash" path="opencca-flash" remote="github" revision="opencca/systex25" />
+	<project name="opencca/opencca-manifest" path="opencca-manifest" remote="github" revision="opencca/systex25" />
 	
 	<project name="opencca/debian-image-recipes" path="debian-image-recipes" remote="github" revision="opencca/systex25" />
 	
