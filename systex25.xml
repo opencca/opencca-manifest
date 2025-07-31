@@ -4,12 +4,11 @@
 	<remote name="github" fetch="https://github.com/"/>
 
 	<project name="opencca/opencca-assets" path="opencca-assets" remote="github" revision="opencca/systex25" />
-	<project name="opencca/opencca-build" path="opencca-build" remote="github" revision="opencca/systex25" />
-	<project name="opencca/opencca-flash" path="opencca-flash" remote="github" revision="opencca/systex25" />
+	<project name="opencca/opencca-build" path="opencca-build" remote="github" revision="89d62d36b268fb7f7d84b3b1e98b9c6fa9d0bb60" />
+	<project name="opencca/opencca-flash" path="opencca-flash" remote="github" revision="9f888be9c80313cb9601ab7c410e1d7f10841935" />
 	<project name="opencca/opencca-manifest" path="opencca-manifest" remote="github" revision="opencca/systex25" />
 	
 	<project name="opencca/debian-image-recipes" path="debian-image-recipes" remote="github" revision="opencca/systex25" />
-	
 	<project name="opencca/tf-rmm" path="tf-rmm" remote="github" revision="opencca/systex25" />
 	<project name="opencca/arm-trusted-firmware" path="trusted-firmware-a" remote="github" revision="opencca/systex25" />
 	<project name="opencca/u-boot" path="u-boot" remote="github" revision="opencca/systex25" />
