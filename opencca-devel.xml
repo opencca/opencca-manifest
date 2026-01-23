@@ -12,7 +12,7 @@
 	<project name="opencca/tf-rmm" path="tf-rmm" remote="github" revision="opencca/main" />
 	<project name="opencca/arm-trusted-firmware" path="trusted-firmware-a" remote="github" revision="opencca/main" />
 	<project name="opencca/u-boot" path="u-boot" remote="github" revision="opencca/main" />
-	<project name="opencca/linux" path="linux" remote="github" revision="opencca/rk3588-v5+v7" />
+	<project name="opencca/linux" path="linux" remote="github" revision="opencca/main" />
 	
 	<project name="opencca/kvmtool" path="kvmtool" remote="github" revision="upstream/cca/v3" />
 	<project name="opencca/rkbin" path="rkbin" remote="github" revision="master" />
